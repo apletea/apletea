@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently building a [Snappseed](https://www.snappseed.io/)
 - 💬 Ask me about AI, Computer Vision, Neural Networks, Math
-- 📫 How to reach me: mr.ololoshechka@gmail.como
+- 📫 How to reach me: mr.ololoshechka@gmail.com
 
