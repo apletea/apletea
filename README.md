@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently building a [grAI](https://www.grAI.fm/)
-- 💬 Ask me about AI, Computer Vision, Neural Networks, Math
+- 💬 Ask me about AI, Neural Networks, Math
 - 📫 How to reach me: mr.ololoshechka@gmail.com
 
